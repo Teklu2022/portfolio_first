@@ -10,8 +10,8 @@ body {
   background-color: #e5e5e5;
 }
 
-header ul li,
-.socials > li {
+header ul 
+.socials   {
   list-style: none;
   height: 20px;
   display: -webkit-box;
@@ -34,7 +34,7 @@ header ul {
   justify-content: space-between;
   margin: 0;
   padding: 0;
-  padding-top: 12px;
+  padding-top: 0px;
 }
 
 a {
@@ -42,11 +42,11 @@ a {
 }
 
 .myLogo {
-  font-weight: 900;
+  font-weight: 1000;
   font-size: 18px;
   color: #6070ff;
   padding-left: 24px;
-  line-height: 20px;
+  line-height: 32px;
   padding-bottom: 10px;
   text-align: center;
 }
