@@ -10,8 +10,7 @@ body {
   background-color: #e5e5e5;
 }
 
-header ul 
-.socials   {
+header ul .socials {
   list-style: none;
   height: 20px;
   display: -webkit-box;
@@ -34,7 +33,7 @@ header ul {
   justify-content: space-between;
   margin: 0;
   padding: 0;
-  padding-top: 0px;
+  padding-top: 0;
 }
 
 a {
